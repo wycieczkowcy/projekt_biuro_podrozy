@@ -120,4 +120,8 @@ Baza danych posiada następujące encje: **Kraje, Miasta, Hotele, Wycieczki, Kli
 | **opis** | Dziennik_Zdarzen | TEXT | OPCJONALNY | 
 | **data_zdarzenia** | Dziennik_Zdarzen | DATETIME | OPCJONALNY (Domyślnie CURRENT_TIMESTAMP) | 
 
+---
+
 ![ERD](media/ERD.png)
+
+---
