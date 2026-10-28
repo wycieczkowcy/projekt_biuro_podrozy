@@ -1,12 +1,12 @@
 # RAPORT Z PROJEKTU BAZY DANYCH BIURA PODRÓŻY
 
-**IMIĘ I NAZWISKO:** \[Twoje Imię i Nazwisko\]
+**IMIĘ I NAZWISKO:** \[TBA\]
 
-**NR ALBUMU:** \[Twój Nr Albumu\]
+**NR ALBUMU:** \[TBA\]
 
 **KIERUNEK:** Informatyka
 
-**GRUPA LABORATORYJNA:** \[Twoja Grupa\]
+**GRUPA LABORATORYJNA:** \[TBA\]
 
 ## 1. OPIS ZADANIA
 
